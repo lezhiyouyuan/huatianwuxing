@@ -27,13 +27,13 @@
 
 项目主页：GitHub（ https://github.com/lezhiyouyuan/huatianwuxing ）
 
-永久存档：Zenodo（ https://zenodo.org/records/23663705 ）
+永久存档：Zenodo（ https://zenodo.org/records/24053521 ）
 
-DOI： https://doi.org/10.5281/zenodo.23663705
+DOI： https://doi.org/10.5281/zenodo.24053521
 
 建议引用：
 
->周述学，《神道大编象宗华天五星：精校本》，1.0版，2026，DOI：[10.5281/zenodo.23663705](https://doi.org/10.5281/zenodo.23663705)
+>周述学，《神道大编象宗华天五星：精校本》，1.0版，2026，DOI：[10.5281/zenodo.24053521](https://doi.org/10.5281/zenodo.24053521)
 
 版本说明：
 
